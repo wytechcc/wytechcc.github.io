@@ -13,6 +13,10 @@ There are 68 pieces of equipment in total. They include PLA, ABS, PETG, Resin, P
 
 Hospitals will vet and select the 3D files they want printed. See "My Organization Needs Help" on the sidebar.
 
+the coordinated effort by the government (FDA, VA, America Makes) approves PPE designs here:
+
+[https://3dprint.nih.gov/collections/covid-19-response](https://3dprint.nih.gov/collections/covid-19-response)
+
 ## Needs - Supply Chain Bottlenecks!
 * If you know a vendor for PETG, polycarbonate, or 0.020"/0.030" thin transparent plastic, add them to the [Vendors and Material Suppliers](https://docs.google.com/spreadsheets/d/18XFfVQ6zzTczFEgAISl7-t_jBeOvYMFAfBuuKGrW6yU/edit#gid=751659476) section of the statewide equipment and resources sheet
 * hospitals seem to want PETG or ABS, PETG is a bit brittle with the current hole placements.
