@@ -53,4 +53,4 @@ Submit ideas to [this google form](https://forms.gle/6jMqhpCXuRLuJkSG8)
   * Folding@Home team # 257578 - Troy Wolfe troy@wolfecs.biz
 
 
-[This Checklist]: https://github.com/wytechcc/ProjectChecklists
+[This Checklist]: https://github.com/wytechcc/wytechcc.github.io

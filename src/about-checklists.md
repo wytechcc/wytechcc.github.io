@@ -1,7 +1,7 @@
 # About the Wyoming Technology Coronavirus Coalition's Checklists
 A list of [checklists] for any [WYTechCC] projects (code or otherwise) that help make sure nobody missed something.
 
-[![github pages](https://github.com/wytechcc/ProjectChecklists/workflows/github%20pages/badge.svg)](https://github.com/wytechcc/ProjectChecklists/actions?query=workflow%3A%22github+pages%22)
+[![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/github%20pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22github+pages%22)
 
 [WyTechCC]: https://wytechcc.com/
 
@@ -27,4 +27,4 @@ hundreds of PMs.
 
 [events]: https://calendar.google.com/calendar/embed?src=a550s244v8gugovtiiaiacbid8%40group.calendar.google.com&ctz=America%2FDenver
 
-[checklists]: https://github.com/wytechcc/ProjectChecklists
+[checklists]: https://github.com/wytechcc/wytechcc.github.io

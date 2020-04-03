@@ -1,4 +1,4 @@
-# ProjectChecklists [![github pages](https://github.com/wytechcc/ProjectChecklists/workflows/github%20pages/badge.svg)](https://github.com/wytechcc/ProjectChecklists/actions?query=workflow%3A%22github+pages%22)
+# ProjectChecklists [![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/Github%20Pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22Github+Pages%22)
 A list of [checklists] for any WYTechCC projects (code or otherwise) that help make sure nobody missed something.
 
 If you find yourself repeating something to volunteers, document it here.
@@ -11,14 +11,14 @@ For right now, edit the markdown files in `src/` with any checklists you have. O
 
 If you don't have commit access yet, open a github issue with the checklist you'd like.
 
-The documentation KanBan board (where we track todos) is [here](https://github.com/wytechcc/ProjectChecklists/issues)
+The documentation KanBan board (where we track todos) is [here](https://github.com/wytechcc/wytechcc.github.io/issues)
 
 ## How To Use This
 A Makefile is used for local development. We now have a
 github action setup, so any successful build to `master`
 deploys to `gh-pages`. Hooray, CI/CD.
 
-[checklists]: https://wytechcc.github.io/ProjectChecklists/
+[checklists]: https://wytechcc.github.io/wytechcc.github.io/
 
 ### Locally
 ```

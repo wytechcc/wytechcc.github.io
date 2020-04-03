@@ -1,12 +1,12 @@
-# Documentation (mdbook) [![github pages](https://github.com/wytechcc/ProjectChecklists/workflows/github%20pages/badge.svg)](https://github.com/wytechcc/ProjectChecklists/actions?query=workflow%3A%22github+pages%22)
+# Documentation (mdbook) [![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/Github%20Pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22Github+Pages%22)
 
 > Documentation project lead: Cameron Whiting
 
 
-* [ ] Documentation's [KanBan board](https://github.com/wytechcc/ProjectChecklists/projects/1)
+* [ ] Documentation's [KanBan board](https://github.com/wytechcc/wytechcc.github.io/projects/1)
 
 ## Developing
-* [ ] read the [README](https://github.com/wytechcc/ProjectChecklists/blob/master/README.md) for information on running a local copy of these docs as you edit.
+* [ ] read the [README](https://github.com/wytechcc/wytechcc.github.io/blob/master/README.md) for information on running a local copy of these docs as you edit.
 * [ ] if you have a spreadsheet, ask Cameron to use his .xlsx to markdown-table converter. save typing.
 * [ ] [How to write markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
