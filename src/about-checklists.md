@@ -21,7 +21,7 @@ hundreds of PMs.
     * [ ] fill out your bio
     * [ ] post to introductions about who you are, what you're up to
 3. [ ] fill out the [volunteer form](https://forms.gle/ZN3kAnuW4oMZDD9DA)
-4. [ ] Check the [Volunteering](./volunteers/README.md) section.
+4. [ ] Check the Volunteering section to your left.
 5. [ ] Add our [events] calendar to your apps.
 
 [events]: https://calendar.google.com/calendar/embed?src=a550s244v8gugovtiiaiacbid8%40group.calendar.google.com&ctz=America%2FDenver

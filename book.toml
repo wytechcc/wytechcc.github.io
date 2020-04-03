@@ -8,6 +8,7 @@ description = "Checklists for all WYTechCC projects."
 [build]
 build-dir = ".book/"
 [output.html]
+git-repository-url = "https://github.com/wytechcc/wytechcc.github.io"
 # additional-js=["theme/lib.min.js","theme/editor.js"]
 # additional-css=["theme/editor.css"]
 #additional-assets = ["static/wytechcc-kanban-screenshot.png"]
