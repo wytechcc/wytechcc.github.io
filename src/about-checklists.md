@@ -1,13 +1,12 @@
-# About the Wyoming Technology Coronavirus Coalition's Checklists
-A list of [checklists] for any [WYTechCC] projects (code or otherwise) that help make sure nobody missed something.
+# About the Wyoming Technology Coronavirus Coalition's Checklists [![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/Github%20Pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22Github+Pages%22)
 
-[![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/github%20pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22github+pages%22)
+[Documentation] for the WYTechCC volunteers to prevent duplication
+& repeating ourselves.
 
-[WyTechCC]: https://wytechcc.com/
+This is no replacement for the main website, [wytechcc.com](https://wytechcc.com)
 
-While this documentation provides information, it's more
-focused towards internal volunteers. The main website is
-intended for public voicing.
+This is not a good place for todos, use Github Issues, Github Projects, Trello, or Google Sheets to manage & assign those.
+
 
 Why are these docs public? It's better to have one public
 conversation (e.g. a slack thread or doc site) than
@@ -27,4 +26,4 @@ hundreds of PMs.
 
 [events]: https://calendar.google.com/calendar/embed?src=a550s244v8gugovtiiaiacbid8%40group.calendar.google.com&ctz=America%2FDenver
 
-[checklists]: https://github.com/wytechcc/wytechcc.github.io
+[Documentation]: https://wytechcc.github.io/

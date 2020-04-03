@@ -1,7 +1,8 @@
 # ProjectChecklists [![github pages](https://github.com/wytechcc/wytechcc.github.io/workflows/Github%20Pages/badge.svg)](https://github.com/wytechcc/wytechcc.github.io/actions?query=workflow%3A%22Github+Pages%22)
-A list of [checklists] for any WYTechCC projects (code or otherwise) that help make sure nobody missed something.
+[Documentation] for the WYTechCC volunteers to prevent duplication
+& repeating ourselves.
 
-If you find yourself repeating something to volunteers, document it here.
+This is no replacement for the main website, [wytechcc.com](https://wytechcc.com)
 
 This is not a good place for todos, use Github Issues, Github Projects, or Trello to manage & assign those.
 
@@ -18,7 +19,7 @@ A Makefile is used for local development. We now have a
 github action setup, so any successful build to `master`
 deploys to `gh-pages`. Hooray, CI/CD.
 
-[checklists]: https://wytechcc.github.io/wytechcc.github.io/
+[Documentation]: https://wytechcc.github.io/
 
 ### Locally
 ```
