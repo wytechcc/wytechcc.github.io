@@ -14,6 +14,8 @@ hundreds of PMs.
 
 > Protip. Hit the search bar to quickly find something.
 
+![Wyoming Technology Coronavirus Coalition Logo](./static/wtcc-logo_v2-1024x10241-1.png)
+
 ## I Want to help WYTechCC, what do I do?
 
 1. [ ] Fill out the [WYTechCC Form](https://arrayschool.typeform.com/to/XtOgR9)

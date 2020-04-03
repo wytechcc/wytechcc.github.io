@@ -8,6 +8,8 @@ still think you're badass for leading a team.
 Read on to learn about delegation strategies, kanban
 boards, and our recommendations for google drive.
 
+Message the leadership team before messaging ET.
+
 ---
 
 ## An Important Note on Decompressing

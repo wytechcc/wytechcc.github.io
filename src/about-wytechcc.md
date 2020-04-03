@@ -8,5 +8,6 @@ Vision: An integrated community of partners empowering streamlined
 
 In plain english, volunteers coordinating drives, writing apps, signal boosting, anything we can do to help.
 
-See the [website](https://wytechcc.com) for more info (we might
-separate things out into an about page, later.)
+See the website's [About Page](https://wytechcc.com/about/) for more info.
+
+![Wyoming Technology Coronavirus Coalition Logo](./static/wtcc-logo_v2-1024x10241-1.png)
