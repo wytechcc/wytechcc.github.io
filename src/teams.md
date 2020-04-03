@@ -9,26 +9,37 @@ publicly on this site. **DO NOT** list our external contacts (e.g. from the spre
 
 Every project needs a leader - don't leave anything abandoned or disorganized.
 
+## I Have An Idea
+
+Submit ideas to [this google form](https://forms.gle/6jMqhpCXuRLuJkSG8)
+
 ## The List
 > still adding leaders to this list... possible duplicate of slack channels, can just list there.
 
-* Leadership
-  * catchall (leadership) - ET
-  * volunteers - Britney Wallesch
+* Leadership (talk to the channel leader that best describes your question instead)
+  * Ryan Alford
+  * Louis Wingerson
+  * Jerad Stack
+  * Tyler Kerr
+  * Lars Kotthoff
+  * Emma Jane Alexander
+  * Jeremia Gillis
+  * catchall (leadership) - ET (last pickings)
 * Outreach
   * Social Media - Nicholas Giraldo
   * Service Industry Tips - Troy Wolfe troy@wolfecs.biz
+  * volunteers - Britney Wallesch
 * Getting Help
-  * requests
-  * resources
-  * jobs-hire-me - if you were laid off because of COVID
-  * jobs-openings -
+  * requests - Susann Robbins
+  * resources - Susann Robbins
+  * jobs-hire-me - Esther Gonzales - if you were laid off because of COVID
+  * jobs-openings - Esther Gonzales
 * Supplies
   * Medical Supply Drives - Samantha Alford
   * Sewing - Melanie Shovelski
   * 3d printed ventilators -
   * [CNC / 3D Printer Coordination](./printers/README.md) - Tyler Kerr tkerr1@uwyo.edu
-    * Northwest: Spencer Kuzara
+    * Northwest: David Maulik
     * Northeast: Spencer Kuzara
     * Southwest: Victoria Evans
     * Central: Rhiannon Jakopak
