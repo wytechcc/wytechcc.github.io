@@ -14,6 +14,21 @@ If you don't have commit access yet, open a github issue with the checklist you'
 
 The documentation KanBan board (where we track todos) is [here](https://github.com/wytechcc/wytechcc.github.io/issues)
 
+
+
+# Beginners
+* sign up for github
+* click the pencil icon next to the file you want to edit in our repository
+
+# Intermediate
+* install atom
+* clone the repository locally
+* view changes in the git tab
+
+# Advanced
+* Download [mdbook-linkcheck](https://github.com/Michael-F-Bryan/mdbook-linkcheck/releases) and [mdbook](https://github.com/rust-lang/mdBook/releases)
+
+
 ## How To Use This
 A Makefile is used for local development. We now have a
 github action setup, so any successful build to `master`
@@ -42,8 +57,9 @@ docker run -p 3000:3000 -p 3001:3001 -v .:/build hello
 docker run -p 3000:3000 -p 3001:3001 -v $pwd:/build hello
 ```
 
-## Pushing to the `gh-pages` branch
+## Pushing to the `master` branch
+> since this is an org page, it uses `master` instead of `gh-pages`.
 Note that because of the installed github action, all
 changes to gh-pages you push, will be overwritten by
-the next **successful** push to master.
-(`make serve-docker` and `make serve-docker-live` are shortcuts, but they won't edit your local gh-pages branch).
+the next **successful** push to source.
+(`make serve-docker` and `make serve-docker-live` are shortcuts, but they won't edit your local master branch).

@@ -27,9 +27,13 @@ environments, and for the following use cases:
 * [ ] Business Server Blades
 * [ ] Cloud IaaS (AWS, GCE, DO)
 
+Visit the [CovidComputerLab](https://github.com/wytechcc/CovidComputerLab) repo for
+our automation scripts. We need lab administrators to help triage deployments!
+
 > will add the github repository shortly.
 
 ## Existing Automation (external projects)
 
 * [https://github.com/topics/foldingathome](https://github.com/topics/foldingathome)
 * [https://github.com/stefancrain/folding-at-home](https://github.com/stefancrain/folding-at-home)
+* Ansible example (linux) - [https://github.com/spruceki/folding-at-home](https://github.com/spruceki/folding-at-home)
