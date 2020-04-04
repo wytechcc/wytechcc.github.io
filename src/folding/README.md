@@ -6,6 +6,10 @@ Have a computer? You can help!
 
 Join our folding@home team: # 257578
 
+For specific FAQs and how to get started, see the main site's
+[I have a computer](https://wytechcc.com/help-and-resources/i-have-a-computer/) page.
+
+
 ## Automation
 > Automation Lead: Cameron Whiting
 
@@ -29,8 +33,6 @@ environments, and for the following use cases:
 
 Visit the [CovidComputerLab](https://github.com/wytechcc/CovidComputerLab) repo for
 our automation scripts. We need lab administrators to help triage deployments!
-
-> will add the github repository shortly.
 
 ## Existing Automation (external projects)
 
