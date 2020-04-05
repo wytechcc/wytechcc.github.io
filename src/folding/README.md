@@ -10,6 +10,10 @@ For specific FAQs and how to get started, see the main site's
 [I have a computer](https://wytechcc.com/help-and-resources/i-have-a-computer/) page.
 
 
+There's also a DigitalOcean app image, if you don't have
+a computer but do know how to use DigitalOcean.
+[folding@home](https://marketplace.digitalocean.com/apps/folding-home)
+
 ## Automation
 > Automation Lead: Cameron Whiting
 
