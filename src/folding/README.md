@@ -14,7 +14,11 @@ There's also a DigitalOcean app image, if you don't have
 a computer but do know how to use DigitalOcean.
 [folding@home](https://marketplace.digitalocean.com/apps/folding-home)
 
-<iframe src="https://stats.foldingathome.org/team/257578" style="width:100%; height:775px;" scrolling="no"></iframe>
+<iframe src="https://stats.foldingathome.org/team/257578" style="width:100%; height:815px;" scrolling="no"></iframe>
+
+## Is this making a difference?
+If you call getting a compute job after a week instead of
+month(s), then yes. Yes this is making a difference. - Cam
 
 ## Grrr, It's doing Cancer instead of COVID. Why?
 > Because so many people volunteered, they got caught by surprise.
@@ -29,7 +33,7 @@ The folding@home team has come leaps and bounds in terms of bandwidth
 for recieving results. But, for the time being, sometimes you'll run
 a Cancer job instead. Why's that? Because they were older jobs, and
 they'd rather not see your servers go unused. (I wouldn't, personally,
-as I'm renting mine).
+as I'm renting mine.) - Cam
 
 As new COVID jobs become available, they have higher priority and will
 get assigned first, rest assured.
@@ -43,8 +47,10 @@ The client supports numerous different diseases.  To make sure your computations
 
 > Grow up. If you cure cancer accidentally, is it really all that bad?
 
+Act as if what you do makes a difference. It does. - William James
+
 ## Automation
-> Automation Lead: Cameron Whiting
+> Automation Lead: Cameron Whiting [cwhitingwy@gmail.com](mailto:cwhitingwy@gmail.com) ("I don't care, let's make it bigger.")
 
 If you've got a lab that's sitting idle, consider donating
 computing time to [Folding@Home](https://foldingathome.org/iamoneinamillion/)
