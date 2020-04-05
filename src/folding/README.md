@@ -14,6 +14,8 @@ There's also a DigitalOcean app image, if you don't have
 a computer but do know how to use DigitalOcean.
 [folding@home](https://marketplace.digitalocean.com/apps/folding-home)
 
+<iframe src="https://stats.foldingathome.org/team/257578" style="width:100%; height:775px;" scrolling="no"></iframe>
+
 ## Automation
 > Automation Lead: Cameron Whiting
 
