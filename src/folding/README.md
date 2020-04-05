@@ -34,7 +34,7 @@ as I'm renting mine).
 As new COVID jobs become available, they have higher priority and will
 get assigned first, rest assured.
 
-The client supports numerous different diseases.  To make sure you’re computations are fighting COVID-19, configure your client settings as follows:
+The client supports numerous different diseases.  To make sure your computations are fighting COVID-19, configure your client settings as follows:
 
 * Webcontrol: “Any disease” in the list “I support research fighting”
 * Advanced Control/FAHControl: Configure > Advanced, select “Any” in the list “Cause Preference”
