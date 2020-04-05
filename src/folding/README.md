@@ -16,6 +16,33 @@ a computer but do know how to use DigitalOcean.
 
 <iframe src="https://stats.foldingathome.org/team/257578" style="width:100%; height:775px;" scrolling="no"></iframe>
 
+## Grrr, It's doing Cancer instead of COVID. Why?
+> Because so many people volunteered, they got caught by surprise.
+
+During their [Reddit AMA](https://www.reddit.com/r/pcmasterrace/comments/flgm7q/ama_with_the_team_behind_foldinghome_coronavirus/), the
+folding@home team addressed becoming (possibly) [twice](https://www.pcgamer.com/foldinghome-project-is-crunching-data-twice-as-fast-as-the-top-supercomputer/) as
+powerful as the largest research supercomputer (and that
+was on march 19th!). During that time, they've struggled to both A:
+prepare projects for distribution & B: Recieve project results.
+
+The folding@home team has come leaps and bounds in terms of bandwidth
+for recieving results. But, for the time being, sometimes you'll run
+a Cancer job instead. Why's that? Because they were older jobs, and
+they'd rather not see your servers go unused. (I wouldn't, personally,
+as I'm renting mine).
+
+As new COVID jobs become available, they have higher priority and will
+get assigned first, rest assured.
+
+The client supports numerous different diseases.  To make sure you’re computations are fighting COVID-19, configure your client settings as follows:
+
+* Webcontrol: “Any disease” in the list “I support research fighting”
+* Advanced Control/FAHControl: Configure > Advanced, select “Any” in the list “Cause Preference”
+* The COVID-19 related projects are on top priority and will be assigned automatically.
+
+
+> Grow up. If you cure cancer accidentally, is it really all that bad?
+
 ## Automation
 > Automation Lead: Cameron Whiting
 
