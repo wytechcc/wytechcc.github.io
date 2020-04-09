@@ -11,7 +11,7 @@ There are 68 pieces of equipment in total. They include PLA, ABS, PETG, Resin, P
 
 ## Getting Materials to Hospitals
 
-Hospitals will vet and select the 3D files they want printed. See "My Organization Needs Help" on the sidebar.
+Hospitals will vet and select the 3D files they want printed. See "My Organization Needs Help" on the sidebar. The google form for doing that is [here](https://docs.google.com/forms/d/e/1FAIpQLScHdd5w5zCr35c99aNIKwiBEvNFNuNkJJcgQCCIdYEK9lX0mQ/viewform).
 
 the coordinated effort by the government (FDA, VA, America Makes) approves PPE designs here:
 
